@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".TurquoiseFragment"
-    android:background="#00F8FE"
+    android:background="#2196F3"
     android:orientation="vertical">
 
 
@@ -12,7 +12,7 @@
         android:id="@+id/textviev1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="бирюзовый фрагмент"
+        android:text="синий фрагмент"
         android:textSize="20dp"
         android:gravity="center"
 
